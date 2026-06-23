@@ -44,6 +44,7 @@ Atuo na orquestração completa de soluções digitais sofisticadas, combinando 
 
 ### 🚀 Projetos em Destaque
 
+* **[Cartório IA](https://github.com/LucasCord7/CartorioIA)**: Plataforma avançada de IA jurídica e RAG para o setor notarial e registral brasileiro. Suporta múltiplos provedores de LLM, processamento inteligente de documentos (PDF, DOCX, XML, etc.), busca híbrida (pgvector + FTS) e controle dinâmico de raciocínio. *FastAPI (Python) + Vue 3 + PostgreSQL (pgvector).*
 * **[Agente Currículo](https://github.com/LucasCord7/AgenteCurriculo)**: Plataforma local-first que usa inteligência artificial para analisar código (GitHub e local), extrair evidências genuínas de senioridade e gerar currículos otimizados. *FastAPI (Python) + Vue 3 + SQLite + OpenAI/Ollama.*
 * **[OCR AI Vision (Go Edition)](https://github.com/LucasCord7/projeto-ocr-go)**: Sistema desktop de extração inteligente de dados (OCR) para documentos cartorários com VLM multi-provider, geração de PDFs pesquisáveis e exportação estruturada. *Go + Wails v2 + Vue 3 + SQL Server.*
 * **[Extrator SPIS LH5 (.NET)](https://github.com/LucasCord7/ExtratorLh5-Online)**: Utilitário de descompressão em lote para descompactar imagens no formato proprietário SPIS LH5 e uni-las em arquivos TIFF multi-page com fallback para RAW. *.NET / C# + MySQL.*
